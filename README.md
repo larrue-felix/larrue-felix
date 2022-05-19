@@ -3,9 +3,9 @@
 ### What I spend my days doing:
 - Developping brand new features :star2:
 - ... and improving existing ones
-- Designing and implementing system architecture for scaling up :rocket:
+- Designing and implementing distributed system architecture for scaling up :rocket:
 - Bug fixes :gear: 
-
+<br/>
 
 ### My toolbox
 <img align="left" alt="VisualStudioCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
@@ -30,20 +30,17 @@
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unix/unix-original.svg"/>
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg"/>
 <img align="left" alt="Yarn" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original-wordmark.svg"/>
-
-​
+<br/>
 
 ### Currently learning
 <img align="left" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/terraform/terraform-original-wordmark.svg"/>
 <img align="left" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
 <img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<br/>
 
-​
-
-### Intered in 👀
+### Interested in 👀
 Cybersecurity and CTF, root-me and tryhackme newbie
+<br/>
 
-​
-
-### HMU on LinkedIn
+### hmu on LinkedIn
 <a href="https://www.linkedin.com/in/f%C3%A9lix-larrue/"><img width="50px" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
