@@ -8,6 +8,7 @@
 <br/>
 
 ### My toolbox
+<div>
 <img align="left" alt="VisualStudioCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -28,21 +29,30 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg"/>
 <img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original.svg"/>
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unix/unix-original.svg"/>
-<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg"/>
 <img align="left" alt="Yarn" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original-wordmark.svg"/>
-<br/>
+</div>
+​
+​
+​
 
 ### Currently learning
 <img align="left" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/terraform/terraform-original-wordmark.svg"/>
 <img align="left" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
-<img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>  
 
-
-<br/>
+​
+​
+​
 
 ### Interested in 👀
 Cybersecurity and CTF, root-me and tryhackme newbie
-<br/>
 
+​
+​
+
+​
 ### hmu on LinkedIn
 <a href="https://www.linkedin.com/in/f%C3%A9lix-larrue/"><img width="50px" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+
+
+
