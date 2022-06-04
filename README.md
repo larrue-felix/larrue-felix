@@ -3,7 +3,6 @@
 ### What I spend my days doing:
 - Developping brand new features :star2:
 - ... and improving existing ones
-- working on Stripe terminal
 - Designing and implementing distributed system architecture for scaling up :rocket:
 <br/>
 
