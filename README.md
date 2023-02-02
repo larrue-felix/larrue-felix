@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @larrue-felix, currently working at [bsport](https://pro.bsport.io/en/home/) as a Junior FullStack Developer
+# 👋 Hi, I’m @larrue-felix, currently working at [bsport](https://pro.bsport.io/en/home/) as a software engineer
 
 ### What I spend my days doing:
 - Developping brand new features :star2:
